@@ -12,6 +12,8 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.example.anti.databinding.ActivityMainBinding;
 
+//push test
+
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
